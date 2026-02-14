@@ -1,4 +1,4 @@
-# Material Management System
+# Legal Engine
 
 A modern, mobile-first Material Management System built with Next.js 14, designed for construction sites to streamline material requisition, approval, and tracking processes.
 
